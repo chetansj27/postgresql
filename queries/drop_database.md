@@ -6,7 +6,7 @@ DROP DATABASE IF EXISTS dbname;
 
 ```
 
-It can give error **database used by other user**
+If you are connected to database, it can give error **database used by other user**
 ```sql
 
 SELECT
