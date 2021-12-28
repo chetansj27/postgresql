@@ -16,3 +16,9 @@ age=21,
 first_name='adam'
 WHERE demo_id=5;
 ```
+
+To update all data 
+```sql
+UPDATE demo 
+SET last_name='bill';
+```
